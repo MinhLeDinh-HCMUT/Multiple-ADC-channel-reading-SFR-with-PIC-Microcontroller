@@ -1,4 +1,4 @@
-# Multiple ADC channels reading with Special Function Register (SFR) of PIC-Microcontroller
+# Multiple ADC channels reading with Special Function Register (SFR) of PIC microcontroller
 ## Microcontrollers that can be used
 - PIC16F877
 - PIC16F877A
